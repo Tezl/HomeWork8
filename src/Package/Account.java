@@ -1,7 +1,5 @@
 package Package;
 
-public class Person {
-
     String name;
 
     public class Account {
@@ -22,4 +20,4 @@ public class Person {
 
     }
     
-}
+
