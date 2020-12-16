@@ -14,7 +14,7 @@ public class Person {
 
         }
 
-        public void print() {
+        public void displayAccount() {
 
             System.out.println("Person name - " + name);
 
